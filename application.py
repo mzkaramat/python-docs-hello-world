@@ -9,7 +9,6 @@ from shutil import copyfile
 import json
 import Augmentor
 from distutils.dir_util import copy_tree
-import turicreate as tc
 
 app = Flask(__name__)
 
